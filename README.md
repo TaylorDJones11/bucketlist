@@ -1,8 +1,3 @@
-# React + Vite
+# BucketList
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="445" alt="Screenshot 2024-11-19 at 16 47 00" src="https://github.com/user-attachments/assets/463e2e02-7fb6-4857-aa8e-9b73f9789b5a">
